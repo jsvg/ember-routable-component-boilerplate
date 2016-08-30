@@ -1,7 +1,7 @@
 {
   "name": "client",
-  "version": "0.0.0",
-  "description": "Small description for css-example goes here",
+  "version": "0.0.1",
+  "description": "Ember boilerplate project to enhance component-driven development",
   "private": true,
   "directories": {
     "doc": "doc",
